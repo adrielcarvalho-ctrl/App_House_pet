@@ -1,0 +1,13 @@
+{
+  "1": {
+    "id": "1",
+    "nome": "Adriel Carvalho",
+    "email": "adrielcarvalholeite071@gmail.com",
+    "senha": "c00357563669ed21c34e13687cad669038eb88a2831fc8109b40ddc62f63e934",
+    "telefone": "",
+    "aceitar_whatsapp": true,
+    "aceitar_ligacoes": false,
+    "token": "f638ebeeb81348069b0f9d7d7416135a7fa7a28bc34b8ed3cf22bcfbb043920a",
+    "created_at": "2026-05-24T00:21:28.866866"
+  }
+}
